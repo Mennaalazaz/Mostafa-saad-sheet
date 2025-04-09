@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Mostafa Saad Sheet/UFA10110/cmake-build-debug/CMakeFiles/UFA10110.dir
+C:/Users/pc/CLionProjects/Mostafa Saad Sheet/UFA10110/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Mostafa Saad Sheet/UFA10110/cmake-build-debug/CMakeFiles/rebuild_cache.dir
