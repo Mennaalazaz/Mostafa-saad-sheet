@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Mostafa Saad Sheet/Venya&Latterns/cmake-build-debug/CMakeFiles/Venya_Latterns.dir
+C:/Users/pc/CLionProjects/Mostafa Saad Sheet/Venya&Latterns/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Mostafa Saad Sheet/Venya&Latterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
